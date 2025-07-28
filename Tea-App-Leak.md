@@ -10,7 +10,7 @@ Affected users should contact [support@teaforwomen.com](mailto:support@teaforwom
 
 | **Aspect**                | **Details**                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|
-| **Thread Source**         | 4chan /g/ board, thread number 106019348, posted on July 25, 2025, at 13:46:07; /pol/ threads: [/pol/thread/511313558](https://archive.4plebs.org/pol/thread/511313558), [/pol/thread/511317913](https://archive.4plebs.org/pol/thread/511317913), [/pol/thread/511323608/#511327270](https://archive.4plebs.org/pol/thread/511323608/#511327270) |
+| **Thread Source**         | 4chan /g/ board, thread number 106019348, posted on July 25, 2025, at 13:46:07; /pol/ threads: [511313558](https://archive.4plebs.org/pol/thread/511313558), [511317913](https://archive.4plebs.org/pol/thread/511317913), [511323608](https://archive.4plebs.org/pol/thread/511323608/#511327270) |
 | **App Name**              | Tea App                                                                    |
 | **Purpose**               | Designed as a safe space for women to share dating experiences             |
 | **Security Issues**       | - Flawed AI verification with no encryption or fact-checking<br>- Leaked verification photos and user data due to poor security measures<br>- Described as having "vibe code" with minimal security protocols<br>- [Public Firebase bucket with no authentication](https://firebasestorage.googleapis.com/v0/b/tea-the-app.appspot.com/o/) |
